@@ -1,2 +1,3 @@
-# learn-go-with-tests
-Study repository for "Learn Go with tests" course
+# Learn Go with tests
+
+This is study repository created for "[Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)" course.
